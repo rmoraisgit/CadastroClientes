@@ -1,0 +1,5 @@
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Domain\bin\Debug\RFL.CadastroClientes.Domain.dll
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Domain\bin\Debug\RFL.CadastroClientes.Domain.pdb
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.csprojResolveAssemblyReference.cache
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.dll
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.pdb

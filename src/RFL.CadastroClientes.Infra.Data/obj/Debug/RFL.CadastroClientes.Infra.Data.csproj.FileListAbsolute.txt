@@ -1,0 +1,12 @@
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Infra.Data.dll.config
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Infra.Data.dll
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Infra.Data.pdb
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Domain.dll
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Domain.pdb
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.dll
+C:\Users\rsilveira\Desktop\Dev\RFL.CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.pdb
