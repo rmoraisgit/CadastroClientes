@@ -296,6 +296,10 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\RFL.CadastroClientes.Application\RFL.CadastroClientes.Application.csproj">
+      <Project>{84B78C69-A3EF-4B26-8858-281C799E8049}</Project>
+      <Name>RFL.CadastroClientes.Application</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RFL.CadastroClientes.Infra.CrossCutting.IoC\RFL.CadastroClientes.Infra.CrossCutting.IoC.csproj">
       <Project>{FE51AD9D-934B-4E12-AA3D-9824F2B75BAA}</Project>
       <Name>RFL.CadastroClientes.Infra.CrossCutting.IoC</Name>

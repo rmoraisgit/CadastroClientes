@@ -177,3 +177,7 @@ C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClie
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.UI.MVC\bin\RFL.CadastroClientes.Domain.pdb
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.UI.MVC\bin\RFL.CadastroClientes.Infra.Data.pdb
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.UI.MVC\bin\Dapper.xml
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.UI.MVC\bin\RFL.CadastroClientes.Application.dll
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.UI.MVC\bin\AutoMapper.dll
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.UI.MVC\bin\RFL.CadastroClientes.Application.pdb
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.UI.MVC\bin\AutoMapper.xml
