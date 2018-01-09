@@ -1,0 +1,15 @@
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.dll
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.pdb
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Domain.dll
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Infra.Data.dll
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\Dapper.dll
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Domain.pdb
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Infra.Data.pdb
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\Dapper.xml
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\obj\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\obj\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.dll
+C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\obj\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.pdb
