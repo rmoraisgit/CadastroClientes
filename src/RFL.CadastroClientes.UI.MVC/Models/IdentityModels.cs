@@ -29,5 +29,9 @@ namespace RFL.CadastroClientes.UI.MVC.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<RFL.CadastroClientes.Application.ViewModels.EnderecoViewModel> EnderecoViewModels { get; set; }
+
+        //public System.Data.Entity.DbSet<RFL.CadastroClientes.Application.ViewModels.ClienteViewModel> ClienteViewModels { get; set; }
     }
 }

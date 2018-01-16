@@ -41,7 +41,7 @@ namespace RFL.CadastroClientes.Application.ViewModels
         public DateTime DataCadastro { get; set; }
         public bool Ativo { get; set; }
 
-        //public ICollection<EnderecoViewModel> Enderecos { get; set; }
+        public ICollection<EnderecoViewModel> Enderecos { get; set; }
 
         //Endereco
 
@@ -76,6 +76,6 @@ namespace RFL.CadastroClientes.Application.ViewModels
         [MinLength(2, ErrorMessage = "Mínimo {0} caracteres")]
         public string Estado { get; set; }
 
-        //public ClienteViewModel Cliente { get; set; }
+        public ClienteViewModel Cliente { get; set; }
     }
 }

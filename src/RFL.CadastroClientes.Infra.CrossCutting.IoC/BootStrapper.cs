@@ -1,4 +1,8 @@
-﻿using RFL.CadastroClientes.Domain.Interfaces.Repository;
+﻿using RFL.CadastroClientes.Application;
+using RFL.CadastroClientes.Application.Interfaces;
+using RFL.CadastroClientes.Domain.Interfaces;
+using RFL.CadastroClientes.Domain.Interfaces.Repository;
+using RFL.CadastroClientes.Domain.Services;
 using RFL.CadastroClientes.Infra.Data.Repository;
 using SimpleInjector;
 using System;
@@ -13,8 +17,14 @@ namespace RFL.CadastroClientes.Infra.CrossCutting.IoC
     {
         public static void RegisterServices(Container container)
         {
-            //Domain
+            //Infra
             container.Register<IClienteRepository, ClienteRepository>(Lifestyle.Scoped);
+
+            //Domain
+            container.Register<IClienteService, ClienteService>(Lifestyle.Scoped);
+
+            //Application
+            container.Register<IClienteAppService, ClienteAppService>(Lifestyle.Scoped);
         }
     }
 }

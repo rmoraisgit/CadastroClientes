@@ -51,6 +51,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\RFL.CadastroClientes.Application\RFL.CadastroClientes.Application.csproj">
+      <Project>{84b78c69-a3ef-4b26-8858-281c799e8049}</Project>
+      <Name>RFL.CadastroClientes.Application</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RFL.CadastroClientes.Domain\RFL.CadastroClientes.Domain.csproj">
       <Project>{27CDEB65-A265-4F1C-B9EB-9D1A238E29B6}</Project>
       <Name>RFL.CadastroClientes.Domain</Name>

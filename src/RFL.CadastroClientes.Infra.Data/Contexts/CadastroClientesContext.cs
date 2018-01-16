@@ -33,20 +33,30 @@ namespace RFL.CadastroClientes.Infra.Data.Contexts
 
         public override int SaveChanges()
         {
-            foreach (var entry in ChangeTracker.Entries().Where(p => p.GetType().GetProperty("DataCadastro") != null))
+            foreach (var entry in ChangeTracker.Entries().Where(p => p.Entity.GetType().GetProperty("DataCadastro") != null))
             {
-                if(entry.State == EntityState.Added)
+                if (entry.State == EntityState.Added)
                 {
                     entry.Property("DataCadastro").CurrentValue = DateTime.Now;
                 }
-                if(entry.State == EntityState.Modified)
+                if (entry.State == EntityState.Modified)
                 {
                     entry.Property("DataCadastro").IsModified = false;
                 }
             }
 
+            foreach (var entry in ChangeTracker.Entries().Where(p => p.Entity.GetType().GetProperty("Ativo") != null))
+            {
+                if (entry.State == EntityState.Added)
+                {
+                    entry.Property("Ativo").CurrentValue = true;
+                }
+                if (entry.State == EntityState.Modified)
+                {
+                    entry.Property("Ativo").IsModified = false;
+                }
+            }
             return base.SaveChanges();
         }
-
     }
 }

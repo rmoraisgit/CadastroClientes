@@ -7,3 +7,12 @@ C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClie
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.csprojResolveAssemblyReference.cache
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.dll
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Application.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Application.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\AutoMapper.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Domain.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Domain.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\AutoMapper.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.pdb

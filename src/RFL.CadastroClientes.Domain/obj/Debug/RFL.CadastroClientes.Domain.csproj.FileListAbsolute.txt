@@ -8,3 +8,7 @@ C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClie
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.csprojResolveAssemblyReference.cache
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.dll
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Domain\bin\Debug\RFL.CadastroClientes.Domain.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Domain\bin\Debug\RFL.CadastroClientes.Domain.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.pdb

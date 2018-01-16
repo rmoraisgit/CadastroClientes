@@ -24,3 +24,17 @@ C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClie
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.pdb
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\Dapper.dll
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\Dapper.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Infra.Data.dll.config
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Infra.Data.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Infra.Data.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\Dapper.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Domain.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\RFL.CadastroClientes.Domain.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\Dapper.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.Data\obj\Debug\RFL.CadastroClientes.Infra.Data.pdb

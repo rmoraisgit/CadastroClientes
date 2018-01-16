@@ -13,3 +13,22 @@ C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClie
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\obj\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\obj\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.dll
 C:\Users\Rafael\Documents\CadastroClientes\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\obj\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Application.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Domain.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Infra.Data.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\Dapper.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Application.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Domain.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\RFL.CadastroClientes.Infra.Data.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\bin\Debug\Dapper.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\obj\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\obj\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Infra.CrossCutting.IoC\obj\Debug\RFL.CadastroClientes.Infra.CrossCutting.IoC.pdb
