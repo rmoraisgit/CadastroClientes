@@ -1,6 +1,7 @@
 ﻿using Dapper;
 using RFL.CadastroClientes.Domain.Entities;
 using RFL.CadastroClientes.Domain.Interfaces.Repository;
+using RFL.CadastroClientes.Infra.Data.Contexts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,12 @@ namespace RFL.CadastroClientes.Infra.Data.Repository
 {
     public class ClienteRepository : Repository<Cliente>, IClienteRepository
     {
+        public ClienteRepository(CadastroClientesContext Contexto) 
+            : base(Contexto)
+        {
+
+        }
+
         public Cliente BuscarPorCpf(string cpf)
         {
             return DbSet.FirstOrDefault(c => c.Cpf == cpf);

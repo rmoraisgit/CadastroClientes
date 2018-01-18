@@ -16,3 +16,9 @@ D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Applicat
 D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.csprojResolveAssemblyReference.cache
 D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.dll
 D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Infra.Data.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\EntityFramework.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\Dapper.dll
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Infra.Data.pdb
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\EntityFramework.xml
+D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\Dapper.xml

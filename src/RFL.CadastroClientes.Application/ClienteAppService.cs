@@ -8,16 +8,19 @@ using RFL.CadastroClientes.Application.ViewModels;
 using RFL.CadastroClientes.Domain.Interfaces;
 using AutoMapper;
 using RFL.CadastroClientes.Domain.Entities;
+using RFL.CadastroClientes.Infra.Data.UoW;
 
 namespace RFL.CadastroClientes.Application
 {
     public class ClienteAppService : IClienteAppService
     {
         private readonly IClienteService _IClienteService;
+        private readonly IUnitOfWork _IUnitOfWork;
 
-        public ClienteAppService(IClienteService IClienteService)
+        public ClienteAppService(IClienteService IClienteService, IUnitOfWork IUnitOfWork)
         {
             _IClienteService = IClienteService;
+            _IUnitOfWork = IUnitOfWork;
         }
 
         public ClienteEnderecoViewModel Adicionar(ClienteEnderecoViewModel obj)
@@ -28,13 +31,18 @@ namespace RFL.CadastroClientes.Application
 
             _IClienteService.Adicionar(cliente);
 
+            _IUnitOfWork.Commit();
+
             return obj;
         }
 
         public ClienteViewModel Atualizar(ClienteViewModel obj)
         {
             var cliente = Mapper.Map<Cliente>(obj);
-            _IClienteService.Atualizar(cliente);
+            _IClienteService.Atualizar(cliente); 
+            
+                _IUnitOfWork.Commit();
+           
 
             return obj;
         }
@@ -64,6 +72,8 @@ namespace RFL.CadastroClientes.Application
         public void Remover(Guid id)
         {
             _IClienteService.Remover(id);
+
+            _IUnitOfWork.Commit();
         }
 
         public void Dispose()

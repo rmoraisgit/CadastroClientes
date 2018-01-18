@@ -1,5 +1,6 @@
 ﻿using RFL.CadastroClientes.Domain.Interfaces.Repository;
 using RFL.CadastroClientes.Infra.Data.Contexts;
+using RFL.CadastroClientes.Infra.Data.UoW;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -14,16 +15,16 @@ namespace RFL.CadastroClientes.Infra.Data.Repository
         protected CadastroClientesContext Db;
         protected DbSet<TEntity> DbSet;
 
-        public Repository()
+        public Repository(CadastroClientesContext Context)
         {
-            Db = new CadastroClientesContext();
+            Db = Context;
             DbSet = Db.Set<TEntity>();
+           
         }
 
         public virtual TEntity Adicionar(TEntity obj)
         {
             var objAdicionado = DbSet.Add(obj);
-            SaveChanges();
 
             return objAdicionado;
         }
@@ -33,7 +34,6 @@ namespace RFL.CadastroClientes.Infra.Data.Repository
             var entry = Db.Entry(obj);
             DbSet.Attach(obj);
             entry.State = EntityState.Modified;
-            SaveChanges();
 
             return obj;
         }
@@ -51,6 +51,7 @@ namespace RFL.CadastroClientes.Infra.Data.Repository
         public virtual void Remover(Guid id)
         {
             DbSet.Remove(BuscaPorId(id));
+
         }
 
         public virtual int SaveChanges()

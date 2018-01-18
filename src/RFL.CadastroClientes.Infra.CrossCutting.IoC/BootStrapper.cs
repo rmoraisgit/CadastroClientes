@@ -3,7 +3,9 @@ using RFL.CadastroClientes.Application.Interfaces;
 using RFL.CadastroClientes.Domain.Interfaces;
 using RFL.CadastroClientes.Domain.Interfaces.Repository;
 using RFL.CadastroClientes.Domain.Services;
+using RFL.CadastroClientes.Infra.Data.Contexts;
 using RFL.CadastroClientes.Infra.Data.Repository;
+using RFL.CadastroClientes.Infra.Data.UoW;
 using SimpleInjector;
 using System;
 using System.Collections.Generic;
@@ -25,6 +27,12 @@ namespace RFL.CadastroClientes.Infra.CrossCutting.IoC
 
             //Application
             container.Register<IClienteAppService, ClienteAppService>(Lifestyle.Scoped);
+            
+            //Unit of Work
+            container.Register<IUnitOfWork, UnitOfWork>(Lifestyle.Scoped);
+
+            //Contexto
+            container.Register<CadastroClientesContext>(Lifestyle.Scoped);
         }
     }
 }

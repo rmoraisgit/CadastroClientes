@@ -62,6 +62,10 @@
       <Project>{27CDEB65-A265-4F1C-B9EB-9D1A238E29B6}</Project>
       <Name>RFL.CadastroClientes.Domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\RFL.CadastroClientes.Infra.Data\RFL.CadastroClientes.Infra.Data.csproj">
+      <Project>{0A511080-E703-4E8D-AD8D-022F045A3AFE}</Project>
+      <Name>RFL.CadastroClientes.Infra.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
