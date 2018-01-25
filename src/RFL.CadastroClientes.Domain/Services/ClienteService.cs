@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using RFL.CadastroClientes.Domain.Entities;
 using RFL.CadastroClientes.Domain.Interfaces.Repository;
+using RFL.CadastroClientes.Domain.Validations.Clientes;
 
 namespace RFL.CadastroClientes.Domain.Services
 {
@@ -20,6 +21,18 @@ namespace RFL.CadastroClientes.Domain.Services
 
         public Cliente Adicionar(Cliente obj)
         {
+            if (!obj.EhValido())
+            {
+                return obj;
+            }
+
+            obj.ValidationResult = new ClienteAptoParaCadastroValidation(_IClienteRepository).Validate(obj);
+
+            if (!obj.ValidationResult.IsValid)
+            {
+                return obj;
+            }
+
             return _IClienteRepository.Adicionar(obj);
         }
 

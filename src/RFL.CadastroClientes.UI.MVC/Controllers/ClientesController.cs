@@ -57,7 +57,17 @@ namespace RFL.CadastroClientes.UI.MVC.Controllers
         {
             if (ModelState.IsValid)
             {
-                _IClienteAppService.Adicionar(clienteEnderecoViewModel);
+                clienteEnderecoViewModel = _IClienteAppService.Adicionar(clienteEnderecoViewModel);
+
+                if (!clienteEnderecoViewModel.ValidationResult.IsValid)
+                {
+                    foreach (var error in clienteEnderecoViewModel.ValidationResult.Erros)
+                    {
+                        ModelState.AddModelError(string.Empty, error.Message);
+                    }
+
+                    return View(clienteEnderecoViewModel);
+                }
                 return RedirectToAction("Index");
             }
 

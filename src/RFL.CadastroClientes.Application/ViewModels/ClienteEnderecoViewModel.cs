@@ -38,10 +38,15 @@ namespace RFL.CadastroClientes.Application.ViewModels
         [DataType(DataType.Date, ErrorMessage = "Data em formato inválido")]
         public DateTime DataNascimento { get; set; }
 
+        [ScaffoldColumn(false)]
         public DateTime DataCadastro { get; set; }
+
+        [ScaffoldColumn(false)]
         public bool Ativo { get; set; }
 
-        public ICollection<EnderecoViewModel> Enderecos { get; set; }
+        [ScaffoldColumn(false)]
+        public DomainValidation.Validation.ValidationResult ValidationResult { get; set; }
+
 
         //Endereco
 
@@ -76,6 +81,5 @@ namespace RFL.CadastroClientes.Application.ViewModels
         [MinLength(2, ErrorMessage = "Mínimo {0} caracteres")]
         public string Estado { get; set; }
 
-        public ClienteViewModel Cliente { get; set; }
     }
 }

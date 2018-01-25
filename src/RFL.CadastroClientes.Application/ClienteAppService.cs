@@ -29,9 +29,14 @@ namespace RFL.CadastroClientes.Application
             var endereco = Mapper.Map<Endereco>(obj);
             cliente.Enderecos.Add(endereco);
 
-            _IClienteService.Adicionar(cliente);
+            var retornoCliente =_IClienteService.Adicionar(cliente);
 
-            _IUnitOfWork.Commit();
+            if (retornoCliente.ValidationResult.IsValid)
+            {
+                _IUnitOfWork.Commit();
+            }
+
+            obj = Mapper.Map<ClienteEnderecoViewModel>(retornoCliente);
 
             return obj;
         }

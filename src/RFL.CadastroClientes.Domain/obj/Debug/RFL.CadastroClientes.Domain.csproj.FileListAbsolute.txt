@@ -13,3 +13,9 @@ D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Domain\b
 D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.dll
 D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.pdb
 D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.csprojResolveAssemblyReference.cache
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Domain\bin\Debug\RFL.CadastroClientes.Domain.dll
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Domain\bin\Debug\RFL.CadastroClientes.Domain.pdb
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.csprojResolveAssemblyReference.cache
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.dll
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Domain\obj\Debug\RFL.CadastroClientes.Domain.pdb
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Domain\bin\Debug\DomainValidation.dll

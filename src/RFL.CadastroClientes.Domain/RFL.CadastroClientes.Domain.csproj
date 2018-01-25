@@ -30,6 +30,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DomainValidation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\DomainValidation.1.0.0\lib\net451\DomainValidation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
@@ -40,8 +44,19 @@
     <Compile Include="Interfaces\Repository\IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\ClienteService.cs" />
+    <Compile Include="Specifications\Clientes\ClienteDevePossuirCPFUnicoSpecification.cs" />
+    <Compile Include="Specifications\Clientes\ClienteDevePossuirCPFValidoSpecification.cs" />
+    <Compile Include="Specifications\Clientes\ClienteDevePossuirEmailUnicoSpecification.cs" />
+    <Compile Include="Specifications\Clientes\ClienteDevePossuirEmailValidoSpecification.cs" />
+    <Compile Include="Specifications\Clientes\ClienteDevePossuirMaioridadeSpecification.cs" />
+    <Compile Include="Validations\Clientes\ClienteAptoParaCadastroValidation.cs" />
+    <Compile Include="Validations\Clientes\ClienteEstaConsistenteValidation.cs" />
+    <Compile Include="Validations\CPFValidation.cs" />
+    <Compile Include="Validations\EmailValidation.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

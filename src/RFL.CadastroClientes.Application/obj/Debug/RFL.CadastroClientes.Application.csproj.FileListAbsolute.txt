@@ -22,3 +22,19 @@ D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Applicat
 D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Infra.Data.pdb
 D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\EntityFramework.xml
 D:\Desenvolvimento e Projetos\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\Dapper.xml
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.csprojResolveAssemblyReference.cache
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.dll
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\obj\Debug\RFL.CadastroClientes.Application.pdb
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Application.dll
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Application.pdb
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\AutoMapper.dll
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Domain.dll
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Infra.Data.dll
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\EntityFramework.dll
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\Dapper.dll
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Domain.pdb
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\RFL.CadastroClientes.Infra.Data.pdb
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\AutoMapper.xml
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\EntityFramework.xml
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\Dapper.xml
+D:\Uncle\CadastroClientes\src\RFL.CadastroClientes.Application\bin\Debug\DomainValidation.dll

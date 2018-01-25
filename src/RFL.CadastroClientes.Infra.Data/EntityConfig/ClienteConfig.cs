@@ -34,6 +34,8 @@ namespace RFL.CadastroClientes.Infra.Data.EntityConfig
             Property(c => c.Ativo)
                 .IsRequired();
 
+            Ignore(c => c.ValidationResult);
+
             ToTable("Clientes");
         }
     }

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DomainValidation.Validation;
+using RFL.CadastroClientes.Domain.Validations.Clientes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,5 +25,13 @@ namespace RFL.CadastroClientes.Domain.Entities
         public DateTime DataCadastro { get; set; }
         public bool Ativo { get; set; }
         public virtual ICollection<Endereco> Enderecos { get; set; }
+
+        public ValidationResult ValidationResult { get; set; }
+
+        public bool EhValido()
+        {
+            ValidationResult = new ClienteEstaConsistenteValidation().Validate(this);
+            return ValidationResult.IsValid;
+        }
     }
 }

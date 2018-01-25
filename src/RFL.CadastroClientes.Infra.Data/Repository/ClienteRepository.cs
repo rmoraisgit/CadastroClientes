@@ -32,7 +32,6 @@ namespace RFL.CadastroClientes.Infra.Data.Repository
         {
             var cliente = BuscaPorId(id);
             cliente.Ativo = false;
-            SaveChanges();
         }
 
         public override IEnumerable<Cliente> BuscarTodos()

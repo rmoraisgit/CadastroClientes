@@ -11,7 +11,7 @@ namespace RFL.CadastroClientes.Application.AutoMapper
 {
     public class ViewModelToDomainProfileMapping : Profile
     {
-        public void Configure()
+        protected override void Configure()
         {
             CreateMap<ClienteViewModel, Cliente>();
             CreateMap<ClienteEnderecoViewModel, Cliente>();
