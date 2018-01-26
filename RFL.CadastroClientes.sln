@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFL.CadastroClientes.Infra.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFL.CadastroClientes.Application", "src\RFL.CadastroClientes.Application\RFL.CadastroClientes.Application.csproj", "{84B78C69-A3EF-4B26-8858-281C799E8049}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFL.CadastroClientes.REST.ClienteAPI", "src\RFL.CadastroClientes.REST.ClienteAPI\RFL.CadastroClientes.REST.ClienteAPI.csproj", "{FB4E74F1-AFCE-43DF-A8E5-9C85CF49D04D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{84B78C69-A3EF-4B26-8858-281C799E8049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84B78C69-A3EF-4B26-8858-281C799E8049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84B78C69-A3EF-4B26-8858-281C799E8049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4E74F1-AFCE-43DF-A8E5-9C85CF49D04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4E74F1-AFCE-43DF-A8E5-9C85CF49D04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4E74F1-AFCE-43DF-A8E5-9C85CF49D04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4E74F1-AFCE-43DF-A8E5-9C85CF49D04D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,5 +71,6 @@ Global
 		{0A511080-E703-4E8D-AD8D-022F045A3AFE} = {6A4E7783-D618-4C02-9329-F04472858BDB}
 		{FE51AD9D-934B-4E12-AA3D-9824F2B75BAA} = {1EE5B898-7193-4C38-B649-30F55CA60432}
 		{84B78C69-A3EF-4B26-8858-281C799E8049} = {A6F8F7B9-93FE-4278-9E3A-DD4F37641101}
+		{FB4E74F1-AFCE-43DF-A8E5-9C85CF49D04D} = {F29530BC-220F-4D13-8897-30084F959A21}
 	EndGlobalSection
 EndGlobal
